@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+UCF-101
+UCF101TrainTestSplits-DetectionTask
+UCF101TrainTestSplits-RecognitionTask
+.AssistX - Action Recognition using UCF101 and Vision-Language Models.pdf
+*.pdf
+
+*.pt
+*.pth
